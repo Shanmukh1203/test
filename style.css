@@ -166,7 +166,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/shannu4.jpg") center;
+    background: url("shannu4.jpg") center;
     height:120px
     width:100px
     background-size: cover;
